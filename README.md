@@ -9,10 +9,12 @@ Parts:
 
 Data:
  - root
- - noun - mishkal
+ - root - derived words grouping for same sense 
+ - noun - exceptions (gender, declension, aramaic)
  - verb - conjugation pattern
- - frequency list for written (Wikipedia)
- - frequency list for spoken (subtitles)
+ - verb - exceptions (infinitive, conjugation)
+ - verb - prepositions use 
+ - frequency list
 
 Key features:
  - synonims
