@@ -21,3 +21,4 @@ Key features:
  - antonyms
  - similar sounding words
  - use in proverbs and expressions
+ - taxonomy (e.g. body part)
